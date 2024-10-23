@@ -1,0 +1,24 @@
+private double planeX = 0.6; // Kameraebene x
+private double planeY = 0; // Kameraebene y
+private double dirX = 0; // Blickrichtung x
+private double dirY = 0.9; // Blickrichtung y
+================================================ NACH VORNE
+
+private double planeX = -0.6; // Kameraebene x
+private double planeY = 0; // Kameraebene y
+private double dirX = 0; // Blickrichtung x
+private double dirY = -0.9; // Blickrichtung y
+================================================ NACH HINTEN
+
+private double planeX = 0.9; // Kameraebene x
+private double planeY = 0; // Kameraebene y
+private double dirX = 0; // Blickrichtung x
+private double dirY = -0.6; // Blickrichtung y
+================================================ NACH RECHTS
+
+private double planeX = -0.9; // Kameraebene x
+private double planeY = 0; // Kameraebene y
+private double dirX = 0; // Blickrichtung x
+private double dirY = 0.6; // Blickrichtung y
+================================================ NACH LINKS
+
